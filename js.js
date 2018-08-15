@@ -29,3 +29,9 @@ document.getElementsByTagName("p")[3].style.color = "yellow";
 
 
 //Es finito//
+
+
+/*
+
+All correct. From Kenn
+*/
